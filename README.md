@@ -22,7 +22,7 @@ please do so! :)
 
 |       | Hall                               | #Lab                                                          | #Workshop                               | #Meeting                                                           | #Blue                                           | Somewhere else                             |                                                      |
 | :---  | :---                               | :---                                                          | :---                                    | :---                                                               | :---                                            | :---                                       | :---                                                 |
-| 11:00 |                                    | traefik proxy, load balancing, docker, letsencrypt (@ajaegle) | Ramda.JS + Kata (Marco)                 |                                                                    | Web Assembly Hands On (Michael)                 | Morning Kata (Wolfram)                     |                                                      |
+| 11:00 |                                    | traefik proxy, load balancing, docker, letsencrypt (@ajaegle) | [Ramda.JS + Kata](#ramdajs-kata) (Marco)                 |                                                                    | Web Assembly Hands On (Michael)                 | Morning Kata (Wolfram)                     |                                                      |
 | 12:00 |                                    | Monads (Nicole)                                               | RxJS How to use discussion (Christian)  | Web bluetooth (Lars)                                               | Vim Pt. 2                                       | Build Setups (Simon)                       | Multiplatform / Mobile (Cordova / PhoneGap?) (Jonas) |
 | 13:00 | LUNCH                              | Free tools for Clean Code/ team support + CI fun (Robert)     | Typing with flow (Wolfram)              |                                                                    |                                                 | Spec By Example (Stefan)                   | Pokemon RAID! On Demand (?)                          |
 | 14:00 | DDD with Redux (Tobias)            | Webpack caching, lazy loading (@ajaegle)                      | Let's write some Elm (Chris)            | ? / effects (and the like) What is it good for? (Markus)           |                                                 |                                            |                                                      |
@@ -40,3 +40,9 @@ See https://github.com/nextlevelshit/jscc17-stay-on-track
 ### Twitter Bot
 
 See https://github.com/Narigo/jscc17-twitter-bot
+
+## Saturday
+
+### Ramda.js Kata
+
+See https://github.com/marcoemrich/pointfree_pokemon_kata
