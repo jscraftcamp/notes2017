@@ -39,7 +39,9 @@ See https://github.com/nextlevelshit/jscc17-stay-on-track
 
 ### Twitter Bot
 
-See https://github.com/Narigo/jscc17-twitter-bot
+See https://github.com/Narigo/jscc17-twitter-bot.
+
+Andreas extended it a lot after our session, [see his fork at https://github.com/ajaegle/jscc17-twitter-bot](https://github.com/ajaegle/jscc17-twitter-bot)
 
 ## Saturday
 
