@@ -23,7 +23,7 @@ please do so! :)
 |       | Hall                               | #Lab                                                          | #Workshop                                | #Meeting                                                           | #Blue                                                                                       | Somewhere else                             |                                                      |
 | :---  | :---                               | :---                                                          | :---                                     | :---                                                               | :---                                                                                        | :---                                       | :---                                                 |
 | 11:00 |                                    | traefik proxy, load balancing, docker, letsencrypt (@ajaegle) | [Ramda.JS + Kata](#ramdajs-kata) (Marco) |                                                                    | Web Assembly Hands On (Michael)                                                             | Morning Kata (Wolfram)                     |                                                      |
-| 12:00 |                                    | Monads (Nicole)                                               | RxJS How to use discussion (Christian)   | Web bluetooth (Lars)                                               | Vim Pt. 2                                                                                   | Build Setups (Simon)                       | Multiplatform / Mobile (Cordova / PhoneGap?) (Jonas) |
+| 12:00 |                                    | Monads (Nicole)                                               | RxJS How to use discussion (Christian)   | [Web Bluetooth](#web-bluetooth) (Lars)                                               | Vim Pt. 2                                                                                   | Build Setups (Simon)                       | Multiplatform / Mobile (Cordova / PhoneGap?) (Jonas) |
 | 13:00 | LUNCH                              | Free tools for Clean Code/ team support + CI fun (Robert)     | Typing with flow (Wolfram)               |                                                                    |                                                                                             | Spec By Example (Stefan)                   | Pokemon RAID! On Demand (?)                          |
 | 14:00 | DDD with Redux (Tobias)            | Webpack caching, lazy loading (@ajaegle)                      | Let's write some Elm (Chris)             | ? / effects (and the like) What is it good for? (Markus)           |                                                                                             |                                            |                                                      |
 | 15:00 | PureScript (Wolfram)               | E2E Testing (with Protractor) and other Tools??? (Chrisitan)  | Dependency Inversion with Redux (David)  | Let's build a Spotify UI / Trello board on top of GraphQL (Robert) |                                                                                             | Getting Hands on product + Business (Jeff) |                                                      |
@@ -48,6 +48,10 @@ Andreas extended it a lot after our session, [see his fork at https://github.com
 ### Ramda.js Kata
 
 See https://github.com/marcoemrich/pointfree_pokemon_kata
+
+### Web Bluetooth
+
+Slides https://www.slideshare.net/LarsGregori/web-bluetooth-next-generation-bluetooth
 
 ### Test frameworks and assertion libraries
 
