@@ -27,7 +27,7 @@ please do so! :)
 | 13:00 | LUNCH                              | Free tools for Clean Code/ team support + CI fun (Robert)     | Typing with flow (Wolfram)               |                                                                    |                                                                                             | Spec By Example (Stefan)                   | Pokemon RAID! On Demand (?)                          |
 | 14:00 | DDD with Redux (Tobias)            | Webpack caching, lazy loading (@ajaegle)                      | Let's write some Elm (Chris)             | ? / effects (and the like) What is it good for? (Markus)           |                                                                                             |                                            |                                                      |
 | 15:00 | PureScript (Wolfram)               | E2E Testing (with Protractor) and other Tools??? (Christian)  | Dependency Inversion with Redux (David)  | Let's build a Spotify UI / Trello board on top of GraphQL (Robert) |                                                                                             | Getting Hands on product + Business (Jeff) |                                                      |
-| 16:00 | Open Source + Clean Code (Antonia) | FitNesse & JavaScript (Nicole)                                | HTTP/2 for data (Michael)                | Catch foreign host scripts (?)                                     | [Test frameworks and assertion libraries](#test-frameworks-and-assertion-libraries) (Joern) | Programming using logical Paradigm (Alex)  |                                                      |
+| 16:00 | Open Source + Clean Code (Antonia) | FitNesse & JavaScript (Nicole)                                | [HTTP/2 for data](#http2-for-data) (Michael)                | Catch foreign host scripts (?)                                     | [Test frameworks and assertion libraries](#test-frameworks-and-assertion-libraries) (Joern) | Programming using logical Paradigm (Alex)  |                                                      |
 | 17:00 | REVIEW                             |                                                               |                                          |                                                                    |                                                                                             |                                            |                                                      |
 | 18:00 | PARTY                              |                                                               |                                          |                                                                    |                                                                                             |                                            |                                                      |
 
@@ -68,3 +68,7 @@ See [Lars' slides](https://www.slideshare.net/LarsGregori/web-bluetooth-next-gen
 ### Test frameworks and assertion libraries
 
 See [testing-frameworks](./testing-frameworks).
+
+### HTTP2 for data
+
+See [Michael's slides](http://peerigon.github.io/talks/2017-07-22-jscraftcamp-http2-for-data)
