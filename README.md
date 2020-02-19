@@ -47,7 +47,7 @@ See [Narigo/jscc17-twitter-bot](https://github.com/Narigo/jscc17-twitter-bot).
 
 Andreas extended it a lot after our session, [see his fork at ajaegle/jscc17-twitter-bot](https://github.com/ajaegle/jscc17-twitter-bot).
 
-## Exorcism 101: Banishing State Discussion & Kata 
+### Exorcism 101: Banishing State Discussion & Kata 
 
 See [marcoemrich/index_kata](https://github.com/marcoemrich/index_kata) for the *Index Kata* that we used.
 
